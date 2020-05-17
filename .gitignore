@@ -1,3 +1,9 @@
+
+# Don't track content of the folders
+images/
+
+
+
 # Miscellaneous
 *.class
 *.log
