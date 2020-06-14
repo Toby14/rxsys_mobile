@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1097307835516-fs5r9kavsife05uolfn8g5obkg8gfrer.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1097307835516-fs5r9kavsife05uolfn8g5obkg8gfrer</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC5QtmfvOCAXX_w94_U00h8aPVZ-L9OTcc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1097307835516</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tinhtranflutter.rxsysMobile</string>
+	<key>PROJECT_ID</key>
+	<string>rxsys-a9d19</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rxsys-a9d19.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1097307835516:ios:bfe3e87b7393f11979cdf9</string>
+	<key>DATABASE_URL</key>
+	<string>https://rxsys-a9d19.firebaseio.com</string>
+</dict>
+</plist>

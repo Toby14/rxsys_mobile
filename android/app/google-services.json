@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1097307835516",
+    "firebase_url": "https://rxsys-a9d19.firebaseio.com",
+    "project_id": "rxsys-a9d19",
+    "storage_bucket": "rxsys-a9d19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097307835516:android:9767cddd95fb051879cdf9",
+        "android_client_info": {
+          "package_name": "com.tinhtranflutter.rxsys_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097307835516-p7re61j4vu1ogv3a6mev8pgqsqn8ughr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtDoTcTUdHZMJzJN1-THSimedzca8RT9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097307835516-p7re61j4vu1ogv3a6mev8pgqsqn8ughr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1097307835516-fs5r9kavsife05uolfn8g5obkg8gfrer.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tinhtranflutter.rxsysMobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

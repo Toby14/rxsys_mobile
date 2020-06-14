@@ -20,16 +20,16 @@ class _ProfilePageState extends State<ProfilePage> {
             padding: const EdgeInsets.only(top: 40.0, bottom: 3.0, left: 20.0,),
             child: Row(
               children: <Widget>[
-                Icon(Icons.person),
+                Icon(Icons.person, color: Color(0xffc9e0e4), size: 34.0,),
                 SizedBox(
                   width: 25.0,
                 ),
-                Text("Guest"),
+                Text("Guest", style: TextStyle(color: Color(0xffc9e0e4), fontSize: 20.0),),
                 SizedBox(
                   width: 170.0,
                 ),
-                Icon(Icons.add),
-                Icon(Icons.add_alert),
+                Icon(Icons.add, color: Color(0xffc9e0e4),),
+                Icon(Icons.add_alert, color: Color(0xffc9e0e4),),
               ],
             ),
           ),
@@ -44,6 +44,14 @@ class _ProfilePageState extends State<ProfilePage> {
             )
           ),
 
+          child: Center(
+            child: Text(
+              "Hello Profile Page",
+              style: TextStyle(
+                fontSize: 36.0
+              ),
+            ),
+          )
 
         ),
 
